@@ -1,0 +1,29 @@
+{
+  "name": "NetMon-Dash",
+  "version": "1.2.1",
+  "description": "A sample, low overhead web dashboard for linux.",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ziedm/Sample-Monitor-Dash.git"
+  },
+  "keywords": [
+    "linux",
+    "gnu",
+    "dashboard",
+    "monitor",
+    "server"
+  ],
+  "author": "Zied Mbarki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziedm/Sample-Monitor-Dash/issues"
+  },
+  "homepage": "https://github.com/ziedm/Sample-Monitor-Dash",
+  "dependencies": {
+    "express": "^4.11.1"
+  }
+}
